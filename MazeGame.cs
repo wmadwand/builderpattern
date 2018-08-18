@@ -23,6 +23,7 @@ namespace Builder
             builder.BuildMaze();
 
             builder.BuildRoom(1);
+            // ...
             builder.BuildRoom(100);
 
             return builder.GetMaze();
