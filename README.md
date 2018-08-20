@@ -1,2 +1,2 @@
-# builderpattern
-sample
+# BuilderPattern
+C# simple sample
